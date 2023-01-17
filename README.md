@@ -23,7 +23,7 @@ It now uses a memory optimised version of shimmer animation so it is even faster
 In your build.gradle:
 ```
 dependencies {
-       implementation 'com.ethanhua:skeleton:1.1.2'
+       implementation 'com.ethanhua:skeleton:2.0.0'
     }
 ```
     

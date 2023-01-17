@@ -3,7 +3,7 @@ package com.ethanhua.skeleton
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import io.supercharge.shimmerlayout.ShimmerLayout
+import com.ethanhua.shimmer.ShimmerLayout
 
 /**
  * Created by ethanhua on 2017/7/29.
